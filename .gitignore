@@ -1,0 +1,7 @@
+# Private — interview prep, NOT for publication
+EXPLAIN.md
+
+# Local scratch
+eval-output.txt
+__pycache__/
+*.pyc
